@@ -12,5 +12,4 @@ Hi 👋 I'm Jason
 
 
 
-📫 Contact Me
-- LinkedIn: 
+
